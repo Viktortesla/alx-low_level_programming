@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
 *main - print a program that assigns random no
-*Return: 0 (Success) 
+*Return: 0 (Success)
 */
 int main(void)
 {
@@ -16,5 +16,5 @@ else if (n == 0)
 printf("%d is zero\n", n);
 else
 printf("%d is negative\n", n);
-return(0);
+return (0);
 }
