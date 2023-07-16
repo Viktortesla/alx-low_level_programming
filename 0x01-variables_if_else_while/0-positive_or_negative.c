@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* *
- * main - print a program that assigns random no
- * Return: 0 (Success) 
- */
+/**
+*main - print a program that assigns random no
+*Return: 0 (Success) 
+*/
 int main(void)
 {
 int n;
